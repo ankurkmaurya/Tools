@@ -1,0 +1,18 @@
+###################### COMMANDS #######################
+
+-> TO CREATE AN IMAGE FOR JAR FILE
+    
+	- CREATE or BUILD IMAGE
+	   podman build -t minimal-tcp-server:1.0 .
+	
+	- RUN IMAGE	
+	   
+	
+	
+	
+	
+	
+	
+	
+	
+	
