@@ -1,4 +1,0 @@
-FROM eclipse-temurin:11.0.18_10-jre-jammy
-WORKDIR /usr/bin
-COPY MinimalTCPServer-1.0.jar /usr/bin/MinimalTCPServer-1.0.jar
-ENTRYPOINT ["java","-jar","/usr/bin/MinimalTCPServer-1.0.jar"]
